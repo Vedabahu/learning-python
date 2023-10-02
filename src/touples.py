@@ -1,3 +1,5 @@
+import this
+
 thing = ([1, 4, 5], [9, 1, 3])
 thing[0][2] = 999
 print(thing)
