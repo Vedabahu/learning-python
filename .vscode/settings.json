@@ -1,7 +1,7 @@
 {
     "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
     "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.formatOnSave": true
     },
     "python.formatting.provider": "none"
