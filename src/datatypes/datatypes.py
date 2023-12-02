@@ -35,3 +35,8 @@ dictiomary = {"key": "value", "key2": "vales2"}
 # Checking types is easy. Just use the type() function.
 
 # print(type())
+
+# We can use the dir() function to view all the functions of something.
+temp = dir(str)
+for r in temp:
+    print(r)
