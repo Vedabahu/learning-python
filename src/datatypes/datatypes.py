@@ -30,3 +30,8 @@ print(sets)
 # Dictionary
 
 dictiomary = {"key": "value", "key2": "vales2"}
+
+
+# Checking types is easy. Just use the type() function.
+
+# print(type())
